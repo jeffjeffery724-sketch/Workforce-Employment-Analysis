@@ -112,11 +112,6 @@ Interactive slicers allow users to filter by:
 ## 🏁 Conclusion
 This Power BI dashboard provides an in-depth view of workforce patterns, employment status, industry behavior, AI risk exposure, and demographic insights. It can be used by HR teams, policymakers, and analysts to understand workforce readiness, identify risks, and support data-driven decision-making.
 
----
 
-If you want, I can also add:  
-✔ A **project description banner**  
-✔ **GitHub folder structure**  
-✔ **How to run / How to use** section  
 
 Just let me know!
