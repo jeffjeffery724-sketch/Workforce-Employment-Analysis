@@ -1,4 +1,4 @@
-# Workforce-Employment-Analysis
+
 # Workforce & Employment Analysis Dashboard
 
 This project is a Power BI dashboard designed to analyze workforce demographics, employment status, AI risk exposure, industry distribution, salary levels, and age/location trends. The dashboard helps visualize large-scale workforce data and provides valuable insights for HR analytics, organizational planning, and labor market research.
